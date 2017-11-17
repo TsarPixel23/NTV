@@ -1,6 +1,7 @@
 ﻿capital = 64
 
 #oob = "GER_1936"
+add_ideas = empire
 
 # Starting tech
 set_technology = {

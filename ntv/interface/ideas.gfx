@@ -3248,7 +3248,7 @@ spriteTypes = {
 	}
 
     spriteType = {
-		name = "generic_empire"
+		name = "GFX_idea_generic_empire"
 		texturefile = "gfx/interface/ideas/idea_generic_empire.dds"
 	}
 	
