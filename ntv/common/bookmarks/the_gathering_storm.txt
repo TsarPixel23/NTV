@@ -54,8 +54,7 @@ bookmarks = {
 			history = "GER_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
-				sour_loser
-				general_staff
+				empire
 			}
 			focuses = {
 				GER_anschluss
@@ -100,7 +99,7 @@ bookmarks = {
 				SOV_claims_on_baltic
 				SOV_war_with_uk
 			}
-
+        }
 		"---"={
 			history = "OTHER_BLITZKRIEG_DESC"
 		}	

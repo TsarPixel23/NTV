@@ -6,5 +6,13 @@ idea_group_head_of_state:0 "Head of State"
 idea_group_head_of_state_desc:0 "Choose a Leader for our nation"
 idea_group_national_rank:0 "National Rank"
 idea_group_national_rank_desc:0 "Choose a National Rank for our nation"
+
+
+
+####################Traits#######
+
+monarch:0 "Monarch"
+
+####################Ideas#######################
 empire:0 "Empire"
-empire_desc:0 "Our Nation is an Empire"
+empire_desc:0 "Our nation is an empire"

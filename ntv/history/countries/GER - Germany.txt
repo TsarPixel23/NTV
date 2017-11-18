@@ -1,7 +1,6 @@
 ﻿capital = 64
 
 #oob = "GER_1936"
-add_ideas = empire
 
 # Starting tech
 set_technology = {
@@ -42,9 +41,13 @@ set_technology = {
 	transport = 1
 }
 
+	add_ideas = {
+		empire
 
-
-
+		#laws
+		early_mobilisation
+		limited_conscription
+	}
 
 set_research_slots = 4
 set_convoys = 200
