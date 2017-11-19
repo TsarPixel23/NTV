@@ -110,8 +110,8 @@ IRE = {
 	color_ui = rgb { 104 207 117 }
 }
 HUN = {
-	color = rgb { 60 104 61 }
-	color_ui = rgb { 65 108 61 }
+	color = rgb { 85 153 87 }
+	color_ui = rgb { 84 150 90 }
 }
 AFG = {
 	color = rgb { 64 160 167 }
@@ -534,3 +534,8 @@ D15 = {
 HDP = {
 	color = rgb { 160 54 46 }
 	color_ui = rgb { 72 49 112 }
+}
+TRN = {
+	color = rgb { 140 106 26 }
+	color_ui = rgb { 135 101 21 }
+}
