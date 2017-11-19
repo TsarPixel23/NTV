@@ -539,3 +539,7 @@ TRN = {
 	color = rgb { 140 106 26 }
 	color_ui = rgb { 135 101 21 }
 }
+RUT = {
+    color = { 15 42 56 }
+    color_ui { 13 40 54 }
+}

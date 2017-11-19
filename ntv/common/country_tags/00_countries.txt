@@ -114,3 +114,4 @@ MAN = "countries/Manchukou.txt"
 ########################
 HDP = "countries/HungaryDPR"
 TRN = "countries/Transylvania"
+RUT = "countries/Ruthenia"
