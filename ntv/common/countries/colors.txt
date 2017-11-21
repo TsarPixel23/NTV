@@ -531,6 +531,7 @@ D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
 }
+##########################x
 HDP = {
 	color = rgb { 160 54 46 }
 	color_ui = rgb { 72 49 112 }
@@ -542,4 +543,12 @@ TRN = {
 RUT = {
     color = { 15 42 56 }
     color_ui { 13 40 54 }
+}
+LIV = {
+    color = { 165 36 13 }
+    color_ui = { 165 36 13 }
+}
+LVU = {
+	color = {25 66 7}
+	color_ui = {23 64 5}
 }
