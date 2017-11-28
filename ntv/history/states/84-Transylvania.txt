@@ -20,7 +20,7 @@ state={
 			690 1 
 		}
 		add_core_of = HUN
-		add_core_of = HDR
+		add_core_of = HDP
 		add_core_of = TRN
 		add_claim_by = ROM
 	}
