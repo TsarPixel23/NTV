@@ -1,0 +1,22 @@
+state={
+	id=746
+	name="STATE_746"
+
+	state_category = rural
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+		}
+		add_core_of = SYR
+		add_core_of = TUR
+	}
+
+	provinces={
+		1606 6883 7671 12029 12473 
+	}
+	manpower=103563
+	buildings_max_level_factor=1.000
+}

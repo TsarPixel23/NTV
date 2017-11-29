@@ -1,0 +1,26 @@
+state={
+	id=744
+	name="STATE_744"
+
+	state_category = rural
+
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			6573 1 
+		}
+		add_claim_by = AUS
+		add_core_of = HUN
+
+	}
+
+	provinces={
+		3565 6573 9537 
+	}
+	manpower=78932
+	buildings_max_level_factor=1.000
+}

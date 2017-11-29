@@ -1,0 +1,17 @@
+state={
+	id=752
+	name="STATE_752"
+
+	state_category=wasteland
+
+	history = {
+	    owner = LVU
+	    add_core_of = LVU
+	    add_core_of = SAU
+	}
+	provinces={
+		4974 8101 10815 10901 
+	}
+	manpower=127034
+	buildings_max_level_factor=1.000
+}

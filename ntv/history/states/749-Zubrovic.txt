@@ -1,0 +1,17 @@
+state={
+	id=749
+	name="STATE_749"
+
+	state_category = enclave
+
+	history={
+		owner = CRO
+		add_core_of = CRO
+	}
+
+	provinces={
+		3868 3924 6889 11816 
+	}
+	manpower=93563
+	buildings_max_level_factor=1.000
+}

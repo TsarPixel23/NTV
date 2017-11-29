@@ -1,0 +1,17 @@
+state={
+	id=750
+	name="STATE_750"
+
+	state_category = rural
+
+	history = {
+	    owner = BUR
+	    add_core_of = BUR
+	    add_claim_by = RAJ
+	}
+	provinces={
+		1296 1315 1385 1403 4275 4408 7295 10217 12125 12292 
+	}
+	manpower=120654
+	buildings_max_level_factor=1.000
+}

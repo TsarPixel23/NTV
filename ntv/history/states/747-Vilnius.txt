@@ -1,0 +1,24 @@
+
+state={
+	id=747
+	name="STATE_747"
+
+	state_category = large_town
+
+	history={
+		owner = LIV
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = LIT
+		add_core_of = LIV
+
+	}
+
+	provinces={
+		9246 9374 9438 11226 11498 
+	}
+	manpower=189628
+	buildings_max_level_factor=1.000
+}
