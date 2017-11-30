@@ -13,8 +13,8 @@ state={
 
 	}
 
-	provinces = {
-	11516 521 698
+	provinces={
+		521 678 5291 9559 11516 
 	}
 	manpower=701283
 	buildings_max_level_factor=1.000
