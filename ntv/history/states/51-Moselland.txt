@@ -33,8 +33,6 @@ state={
 				radar_station = 1
 			}
 		}
-	
-
 	}
 
 	provinces={
