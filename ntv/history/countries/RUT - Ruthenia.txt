@@ -1,4 +1,4 @@
-﻿capital = 44
+﻿capital = 10
 
 OOB = "RUT_1936"
 

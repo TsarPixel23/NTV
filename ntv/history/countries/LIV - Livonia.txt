@@ -1,4 +1,4 @@
-﻿capital = 44
+﻿capital = 12
 
 OOB = "LIV_1936"
 
