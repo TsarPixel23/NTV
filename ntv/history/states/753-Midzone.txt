@@ -1,9 +1,16 @@
 state={
 	id=753
 	name="STATE_753"
+
+	history={
+    owner = GER
+	}
+
+	state_category = rural
+	
 	provinces={
 		506 
 	}
-	manpower=0
+	manpower=32343
 	buildings_max_level_factor=1.000
 }
