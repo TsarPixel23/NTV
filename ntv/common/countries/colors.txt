@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 16 45 13 }
+	color_ui = rgb { 16 45 13 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -531,7 +531,7 @@ D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
 }
-##########################x
+#######################################
 HDP = {
 	color = rgb { 160 54 46 }
 	color_ui = rgb { 72 49 112 }
@@ -541,14 +541,18 @@ TRN = {
 	color_ui = rgb { 135 101 21 }
 }
 RUT = {
-    color = { 15 42 56 }
-    color_ui { 13 40 54 }
+    color = rgb { 99 153 84 }
+    color_ui = rgb { 99 153 84 }
 }
 LIV = {
-    color = { 165 36 13 }
-    color_ui = { 165 36 13 }
+    color = rgb { 165 36 13 }
+    color_ui = rgb { 165 36 13 }
+}
+BUR = {
+	color = rgb { 183 180 124 }
+	color_ui = rgb {179 176 120 }
 }
 LVU = {
-	color = {25 66 7}
-	color_ui = {23 64 5}
+	color = rgb { 38 165 24 }
+	color_ui = rgb { 38 165 24 }
 }
