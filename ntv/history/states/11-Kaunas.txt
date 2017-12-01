@@ -4,7 +4,7 @@ state={
 	name="STATE_11"
 
 	history={
-		owner = GER
+		owner = LIV
 		victory_points = {
 			6296 5 
 		}
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		327 3272 6281 6296 6407 9357 9404 11312 
+		327 3272 6296 6407 9357 9404 11312 
 	}
 	manpower=1353130
 	buildings_max_level_factor=1.000

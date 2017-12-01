@@ -5,7 +5,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = GER
+		owner = RUT
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		400 3254 3393 11357 
+		400 3254 3393 6281 11357 
 	}
 	manpower=234523
 	buildings_max_level_factor=1.000
