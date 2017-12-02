@@ -16,11 +16,11 @@ set_politics = {
 		}
 
 		liberalism = {
-			popularity = 14
+			popularity = 0
 		}
 		
 		socialism = {
-			popularity = 0
+			popularity = 12
 		}
 
 		centrism = {
@@ -44,15 +44,15 @@ set_politics = {
 		}
 
 		national_syndicalism = {
-			popularity = 6
+			popularity = 56
 		}
 
 		authoritarianism = {
-			popularity = 80
+			popularity = 32
 		}
 	}
 	
-	ruling_party = oligarchism
+	ruling_party = national_syndicalism
 	last_election = "1933.3.5"
 	election_frequency = 5
 	elections_allowed = no
@@ -62,11 +62,11 @@ set_politics = {
 set_convoys = 0
 
 create_country_leader = {
-	name = "Dabby Boi"
+	name = "Konstantin Pats"
 	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "portrait_europe_generic_5.dds"
+	picture = "Konstantin_Pats.dds"
 	expire = "1965.1.1"
-	ideology = nationalism
+	ideology = natsynd_subtype
 	traits = {
 		#
 	}

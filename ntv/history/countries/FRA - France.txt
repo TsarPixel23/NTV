@@ -91,7 +91,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = liberalism
+	ruling_party = socialism
 	last_election = "1933.3.5"
 	election_frequency = 5
 	elections_allowed = no
@@ -104,6 +104,17 @@ create_country_leader = {
 	picture = "french_liberal.dds"
 	expire = "1965.1.1"
 	ideology = social_liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Jaques Doriot"
+	desc = "POLITICS_CHARLES_DE_GAULLE_DESC"
+	picture = "doriot_abitmental.dds"
+	expire = "1965.1.1"
+	ideology = socialism_subtype
 	traits = {
 		
 	}
