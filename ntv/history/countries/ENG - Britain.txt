@@ -146,9 +146,20 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Clement Attlee"
+	name = "Queen Elizabeth II"
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "clement_atlee.dds"
+	picture = "queen_liz.dds"
+	expire = "1965.1.1"
+	ideology = conservatism_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Queen Elizabeth II"
+	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
+	picture = "queen_liz.dds"
 	expire = "1965.1.1"
 	ideology = socialism_subtype
 	traits = {
@@ -157,28 +168,15 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Edward Heath"
+	name = "Queen Elizabeth II"
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "edward_heath.dds"
-	expire = "1965.1.1"
-	ideology = conservatism_subtype
-	}
-
-create_country_leader = {
-	name = "Oswald Mosley"
-	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "oswald_mosley.dds"
-	expire = "1965.1.1"
-	ideology = nationalism
-	}
-
-create_country_leader = {
-	name = "Clement Davies"
-	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "clement_davies"
+	picture = "queen_liz.dds"
 	expire = "1965.1.1"
 	ideology = social_liberalism
+	traits = {
+		#
 	}
+}
 
 create_country_leader = {
 	name = "Queen Elizabeth II"

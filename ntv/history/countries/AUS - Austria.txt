@@ -75,9 +75,9 @@ set_politics = {
 set_national_unity = 0.40
 
 create_country_leader = {
-	name = "Julius Raab"
+	name = "Kaiser Otto I"
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
-	picture = "Raab_pm_Austria.dds"
+	picture = "Otto_Habsburg.dds"
 	expire = "1965.1.1"
 	ideology = christian_conservatism
 	traits = {
