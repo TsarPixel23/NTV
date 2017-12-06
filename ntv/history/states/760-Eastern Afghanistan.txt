@@ -1,0 +1,13 @@
+state={
+	id=760
+	name="STATE_760"
+	provinces={
+		5082 10737 10781 10826 12314 12653 12769 12831 
+	}
+	history = {
+	owner = AFG
+	add_core_of = AFG
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

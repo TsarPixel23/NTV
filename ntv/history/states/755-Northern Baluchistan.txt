@@ -1,0 +1,13 @@
+state={
+	id=755
+	name="STATE_755"
+	provinces={
+		5075 8013 12761 
+	}
+	history = {
+	owner = RAJ
+	add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=763
+	name="STATE_763"
+	provinces={
+		4979 8022 8106 10139 10173 
+	}
+		history = {
+	owner = RAJ
+	add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

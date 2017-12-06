@@ -21,10 +21,6 @@ state={
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 3
-			549 = {
-				bunker = 10
-
-			}
 			678 = {
 				bunker = 10
 
@@ -34,10 +30,6 @@ state={
 
 			}
 			6529 = {
-				bunker = 10
-
-			}
-			9503 = {
 				bunker = 10
 
 			}
@@ -59,7 +51,7 @@ state={
 	}
 
 	provinces={
-		549 1346 3629 6529 9503 11502 
+		1346 3629 6529 11502 
 	}
 	manpower=1915600
 	buildings_max_level_factor=1.000
