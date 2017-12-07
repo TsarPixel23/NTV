@@ -769,3 +769,8 @@
  STATE_768:0 "Eastern Gujarat"
  STATE_769:0 "Western Rajahstan"
  STATE_770:0 "Eastern Rajahstan"
+ STATE_771:0 "Sikkim"
+ STATE_772:0 "Southern Tibet"
+ STATE_773:2 "Western Gorkhapur"
+ STATE_774:0 "Eastern Gorkhapur"
+ STATE_775:0 "West Xikang"
