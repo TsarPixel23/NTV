@@ -257,9 +257,10 @@ set_politics = {
 
 }
 
-create_faction = Kaiserpakt
+create_faction = Kaiserunion
 add_to_faction = GER
-
+add_to_faction = RUT
+add_to_faction = LIV
 
 add_ideas = {
 	sour_loser
@@ -270,11 +271,11 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Adolf Heusinger"
+	name = "Kaiser Wilhelm III"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
-	picture = "heusingerstartgame.dds"
+	picture = "wilhelm_3rd.dds"
 	expire = "1965.1.1"
-	ideology = militarism
+	ideology = monarchism
 	traits = {
 		dictator
 	}
