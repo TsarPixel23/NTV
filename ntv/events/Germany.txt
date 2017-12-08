@@ -1,1 +1,24 @@
-﻿   
+﻿###########################
+# German Events
+###########################
+
+add_namespace = germany
+
+country_event = {
+	id = germany.4
+	title = germany.4.t
+	desc = germany.4.d
+	picture = GFX_report_event_german_speech
+	
+	is_triggered_only = no
+
+	trigger = { date < 1952.1.1
+	                 > 1953.1.1 }
+	
+	option = {
+		name = germany.4.a
+		kill_leader = yes
+		create_country_leader = { name = "Kaiser Ferdinand V" desc = "POLITICS_PETER_II_DESC" picture = "kaiser_ferdinand.dds" expire = "1965.1.1" ideology = monarchism }
+		
+		news_event = { hours = 12 id = news.420 }
+	}
